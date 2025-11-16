@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8259ace0560d9359",
+        "id": "1c2bdef9438a978e",
         "type": "tabs",
         "children": [
           {
-            "id": "3bca194230c21f65",
+            "id": "a72c9becfa2acd97",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,10 +183,23 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "3bca194230c21f65",
+  "active": "a72c9becfa2acd97",
   "lastOpenFiles": [
-    "data/3232.png",
+    "data/Pasted image 20251117012737.png",
+    "data/20251117012400.png",
+    "data/20251117012354.png",
+    "data/Pasted image 20251117012400.png",
+    "data/Pasted image 20251117012354.png",
+    "data/20251117005810.png",
+    "data/20251117005802.png",
+    "새 텍스트 문서.txt",
+    "data/Pasted image 20251117005810.png",
+    "data/Pasted image 20251117005802.png",
     "Welcome.md",
+    "data/20251117004009.png",
+    "data/20251117003959.png",
+    "data/lists.csv",
+    "data/data",
     "data"
   ]
 }

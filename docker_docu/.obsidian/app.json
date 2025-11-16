@@ -1,5 +1,6 @@
 {
   "showUnsupportedFiles": true,
-  "newLinkFormat": "shortest",
-  "attachmentFolderPath": "/data"
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "/data",
+  "useMarkdownLinks": true
 }
