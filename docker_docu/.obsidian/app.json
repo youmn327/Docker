@@ -2,5 +2,6 @@
   "showUnsupportedFiles": true,
   "newLinkFormat": "relative",
   "attachmentFolderPath": "/data",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "promptDelete": false
 }
