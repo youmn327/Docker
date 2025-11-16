@@ -4,4 +4,5 @@ Make a note of something, [[create a link]], or try [the Importer](https://help.
 
 When you're ready, delete this note and make the vault your own.
 
-![[Pasted image 20251117002622.png]]
+![](./data/3232.png)
+
